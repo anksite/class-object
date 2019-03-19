@@ -1,0 +1,7 @@
+D:\18.11.2288\Class dan Object\Class dan Object\bin\Debug\Class dan Object.exe.config
+D:\18.11.2288\Class dan Object\Class dan Object\bin\Debug\Class dan Object.exe
+D:\18.11.2288\Class dan Object\Class dan Object\bin\Debug\Class dan Object.pdb
+D:\18.11.2288\Class dan Object\Class dan Object\obj\Debug\Class dan Object.csprojAssemblyReference.cache
+D:\18.11.2288\Class dan Object\Class dan Object\obj\Debug\Class dan Object.csproj.CoreCompileInputs.cache
+D:\18.11.2288\Class dan Object\Class dan Object\obj\Debug\Class dan Object.exe
+D:\18.11.2288\Class dan Object\Class dan Object\obj\Debug\Class dan Object.pdb
